@@ -21,6 +21,12 @@ public interface UserService {
 	
 	//기진 : 시작 ########################################
 	public void kijinUser();
+
+	public void kijinUser2();
+	
+	public void poonghyeok();
+	
+	public void poonghyeok2();
 	
 	//기진 : 끝 ########################################
 

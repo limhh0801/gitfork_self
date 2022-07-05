@@ -42,10 +42,19 @@ public class UserServiceImpl implements UserService {
 			return ;
 		}
 	
-	
 		@Override
 		public void kijinUser2() {
 			return ;
+		}
+		
+		@Override
+		public void poonghyeok() {
+			System.out.println("poonghyeok1");
+		}
+		
+		@Override
+		public void poonghyeok2() {
+			System.out.println("poonghyeok2");
 		}
 		
 		
