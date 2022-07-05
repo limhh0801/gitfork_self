@@ -33,6 +33,18 @@ public class UserController {
 	public String yoojin() {
 		return "/user/yoojin";
 	}
+	@GetMapping(value = "yoojinasdr")
+	public String yoojin2() {
+		return "/user/yoojinadsrdas";
+	}
+	@GetMapping(value = "yoojinqer")
+	public String yoojin3() {
+		return "/user/yoojin3";
+	}
+	@GetMapping(value = "yoojinqwewq")
+	public String yoojin4() {
+		return "/user/yoojin4";
+	}
 	
 	//�쑀吏� : �걹 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 	
