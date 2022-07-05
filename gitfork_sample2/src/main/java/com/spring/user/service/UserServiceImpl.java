@@ -43,6 +43,12 @@ public class UserServiceImpl implements UserService {
 		}
 	
 	
+		@Override
+		public void kijinUser2() {
+			return ;
+		}
+		
+		
 	//기진 : 끝 ########################################
 
 }

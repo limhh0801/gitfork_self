@@ -24,7 +24,11 @@
 
 <!-- ################## 기진 : 시작 ##################-->
 	<select id="">
-		select * form user where uesr_id=${id}
+		select * from user where uesr_id=${id}
+	</select>
+
+	<select id="">
+		select * from user
 	</select>
 <!-- ################## 기진 : 끝 ##################-->
 </mapper>

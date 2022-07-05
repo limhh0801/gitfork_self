@@ -22,6 +22,12 @@ public class BoardServiceImpl implements BoardService{
 	//풍혁 : 끝 ==============================================
 
 	//정수 : 시작 ########################################
+	@Override
+	public void service_hh() {
+		
+		System.out.println("아무 의미 없이 그냥 merge 하려고 만들었다.");
+		return ;
+	}
 	
 	
 	//정수 : 끝 ########################################
