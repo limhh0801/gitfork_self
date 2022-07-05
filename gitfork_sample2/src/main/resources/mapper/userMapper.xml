@@ -31,16 +31,16 @@
 		select * from user
 	</select>
 	
-	<select id="aa">
-		select * from useraa
-	</select>
-	
 	<select id="bb">
 		select * from userbb
 	</select>
 	
 	<select id="cc">
 		select * from usercc
+	
+	<select id="id4">
+		select * from user456
+
 	</select>
 	
 <!-- ################## 기진 : 끝 ##################-->
