@@ -26,7 +26,6 @@ public interface UserService {
 	
 	public void poonghyeok();
 	
-	public void poonghyeok2();
 	
 	//기진 : 끝 ########################################
 
