@@ -13,6 +13,15 @@
    <select id="yeonsoo">
 		select * form user;
 	</select>
+	
+   <select id="yeonsoo2">
+		select * form user;
+	</select>
+	
+   <select id="yeonsoo3">
+		select * form user;
+	</select>
+	
 <!-- ================ 연수 : 끝 ================-->
 
 <!-- @@@@@@@@@@@@@@@@@@@ 유진 : 시작 @@@@@@@@@@@@@@@@@@@-->
@@ -35,7 +44,7 @@
 		select * from userbb
 	</select>
 	
-	
+
 	<select id="id4">
 		select * from user456
 
