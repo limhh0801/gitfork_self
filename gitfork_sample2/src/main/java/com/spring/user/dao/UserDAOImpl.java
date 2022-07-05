@@ -7,9 +7,9 @@ public class UserDAOImpl implements UserDAO {
 
 	
 	//공통 : 시작 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	@Autowired
-	private SqlSession yoojinSession;
-	
+//	@Autowired
+//	private SqlSession yoojinSession;
+//	
 	//공통 : 시작 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 	//연수 : 시작 ==============================================

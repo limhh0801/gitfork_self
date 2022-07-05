@@ -9,8 +9,8 @@ import org.springframework.transaction.annotation.Transactional;
 @Repository
 public class BoardDAOImpl implements BoardDAO {
 	//공통 영역 : 시작 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	@Autowired
-	private SqlSession sqlSession;
+//	@Autowired
+//	private SqlSession sqlSession;
 	//공통 영역 : 끝 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	
 	//풍혁 : 시작 =======================================
