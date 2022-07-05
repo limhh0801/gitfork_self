@@ -38,6 +38,18 @@ public class UserDAOImpl implements UserDAO {
 		
 	}
 	
+	@Override
+	public void getKijin2() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Override
+	public void getKijin3() {
+		// TODO Auto-generated method stub
+		
+	}
+	
 	//기진 : 끝 ########################################
 
 }

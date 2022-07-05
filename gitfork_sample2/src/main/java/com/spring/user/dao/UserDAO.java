@@ -18,6 +18,8 @@ public interface UserDAO {
 	
 	//기진 : 시작 ########################################
 	public void getKijin();
+	public void getKijin2();
+	public void getKijin3();
 	
 	//기진 : 끝 ########################################
 

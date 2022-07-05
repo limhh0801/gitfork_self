@@ -21,6 +21,8 @@ public interface UserService {
 	
 	//기진 : 시작 ########################################
 	public void kijinUser();
+
+	void kijinUser2();
 	
 	//기진 : 끝 ########################################
 

@@ -30,5 +30,18 @@
 	<select id="">
 		select * from user
 	</select>
+	
+	<select id="aa">
+		select * from useraa
+	</select>
+	
+	<select id="bb">
+		select * from userbb
+	</select>
+	
+	<select id="cc">
+		select * from usercc
+	</select>
+	
 <!-- ################## 기진 : 끝 ##################-->
 </mapper>
